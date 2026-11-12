@@ -1,17 +1,17 @@
 {
- "stand": "2026-11-11T21:20:00+01:00",
- "erzeugt": "2026-11-11T21:20+01:00",
+ "stand": "2026-11-12T18:55:00+01:00",
+ "erzeugt": "2026-11-12T18:50+01:00",
  "ziel_monat": {
   "monat": "2026-11",
   "aufrufe": 50000,
   "follower": 300
  },
  "summen": {
-  "aufrufe_7t": null,
+  "aufrufe_7t": 0,
   "aufrufe_7t_vorwoche": null,
-  "aufrufe_monat": null,
+  "aufrufe_monat": 0,
   "follower": {
-   "tiktok": null,
+   "tiktok": 0,
    "youtube": null
   },
   "median_aufrufe_ab_48h": {
@@ -19,13 +19,50 @@
    "youtube": null
   }
  },
- "taeglich": [],
+ "taeglich": [
+  {
+   "datum": "2026-11-11",
+   "tiktok": null,
+   "youtube": null
+  },
+  {
+   "datum": "2026-11-12",
+   "tiktok": null,
+   "youtube": null
+  }
+ ],
  "videos": [
   {
    "teil": 1,
    "titel": "McDonald's Is Actually a Landlord 🍔",
    "datum": "2026-11-11",
    "laenge_s": 49,
+   "aufrufe": {
+    "tiktok": 291,
+    "youtube": null
+   },
+   "likes": {
+    "tiktok": 4,
+    "youtube": null
+   },
+   "kommentare": {
+    "tiktok": 0,
+    "youtube": null
+   },
+   "teilen": {
+    "tiktok": 1,
+    "youtube": null
+   },
+   "bindung_prozent": {
+    "tiktok": null,
+    "youtube": null
+   }
+  },
+  {
+   "teil": 2,
+   "titel": "The Word FREE Switches Off Your Brain 🧠",
+   "datum": "2026-11-12",
+   "laenge_s": 52,
    "aufrufe": {
     "tiktok": null,
     "youtube": null
@@ -50,18 +87,6 @@
  ],
  "naechste_posts": [
   {
-   "teil": 2,
-   "titel": "The Word FREE Switches Off Your Brain 🧠",
-   "plattform": "youtube",
-   "datum": "2026-11-12T16:00:00+01:00"
-  },
-  {
-   "teil": 2,
-   "titel": "The Word FREE Switches Off Your Brain 🧠",
-   "plattform": "tiktok",
-   "datum": "2026-11-12T18:00:00+01:00"
-  },
-  {
    "teil": 3,
    "titel": "$100 Trillion – And Still Broke 💸",
    "plattform": "youtube",
@@ -84,6 +109,18 @@
    "titel": "This Offer Exists to Manipulate You 🎯",
    "plattform": "tiktok",
    "datum": "2026-11-14T18:00:00+01:00"
+  },
+  {
+   "teil": 5,
+   "titel": "The Most Expensive “No” in History 🎬",
+   "plattform": "youtube",
+   "datum": "2026-11-15T16:00:00+01:00"
+  },
+  {
+   "teil": 5,
+   "titel": "The Most Expensive “No” in History 🎬",
+   "plattform": "tiktok",
+   "datum": "2026-11-15T18:00:00+01:00"
   }
  ],
  "geplant_bis": "2026-11-19T12:00:00+01:00"
