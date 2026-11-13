@@ -1,6 +1,6 @@
 {
- "stand": "2026-11-12T18:55:00+01:00",
- "erzeugt": "2026-11-12T18:50+01:00",
+ "stand": "2026-11-13T18:55:00+01:00",
+ "erzeugt": "2026-11-13T18:50+01:00",
  "ziel_monat": {
   "monat": "2026-11",
   "aufrufe": 50000,
@@ -12,10 +12,10 @@
   "aufrufe_monat": null,
   "follower": {
    "tiktok": 0,
-   "youtube": null
+   "youtube": 0
   },
   "median_aufrufe_ab_48h": {
-   "tiktok": null,
+   "tiktok": 291,
    "youtube": null
   }
  },
@@ -27,6 +27,11 @@
   },
   {
    "datum": "2026-11-12",
+   "tiktok": null,
+   "youtube": null
+  },
+  {
+   "datum": "2026-11-13",
    "tiktok": null,
    "youtube": null
   }
@@ -64,6 +69,32 @@
    "datum": "2026-11-12",
    "laenge_s": 52,
    "aufrufe": {
+    "tiktok": 235,
+    "youtube": null
+   },
+   "likes": {
+    "tiktok": 2,
+    "youtube": null
+   },
+   "kommentare": {
+    "tiktok": 0,
+    "youtube": null
+   },
+   "teilen": {
+    "tiktok": 0,
+    "youtube": null
+   },
+   "bindung_prozent": {
+    "tiktok": null,
+    "youtube": null
+   }
+  },
+  {
+   "teil": 3,
+   "titel": "$100 Trillion – And Still Broke 💸",
+   "datum": "2026-11-13",
+   "laenge_s": 58,
+   "aufrufe": {
     "tiktok": null,
     "youtube": null
    },
@@ -87,18 +118,6 @@
  ],
  "naechste_posts": [
   {
-   "teil": 3,
-   "titel": "$100 Trillion – And Still Broke 💸",
-   "plattform": "youtube",
-   "datum": "2026-11-13T16:00:00+01:00"
-  },
-  {
-   "teil": 3,
-   "titel": "$100 Trillion – And Still Broke 💸",
-   "plattform": "tiktok",
-   "datum": "2026-11-13T18:00:00+01:00"
-  },
-  {
    "teil": 4,
    "titel": "This Offer Exists to Manipulate You 🎯",
    "plattform": "youtube",
@@ -121,6 +140,18 @@
    "titel": "The Most Expensive “No” in History 🎬",
    "plattform": "tiktok",
    "datum": "2026-11-15T18:00:00+01:00"
+  },
+  {
+   "teil": 6,
+   "titel": "Why a Higher Price Sold Better 🏷️",
+   "plattform": "youtube",
+   "datum": "2026-11-16T16:00:00+01:00"
+  },
+  {
+   "teil": 6,
+   "titel": "Why a Higher Price Sold Better 🏷️",
+   "plattform": "tiktok",
+   "datum": "2026-11-16T18:00:00+01:00"
   }
  ],
  "geplant_bis": "2026-11-19T12:00:00+01:00"
