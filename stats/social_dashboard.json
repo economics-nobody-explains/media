@@ -1,6 +1,6 @@
 {
- "stand": "2026-11-13T18:55:00+01:00",
- "erzeugt": "2026-11-13T18:50+01:00",
+ "stand": "2026-11-14T18:50:00+01:00",
+ "erzeugt": "2026-11-14T18:49+01:00",
  "ziel_monat": {
   "monat": "2026-11",
   "aufrufe": 50000,
@@ -15,7 +15,7 @@
    "youtube": 0
   },
   "median_aufrufe_ab_48h": {
-   "tiktok": 291,
+   "tiktok": 263.5,
    "youtube": null
   }
  },
@@ -32,6 +32,11 @@
   },
   {
    "datum": "2026-11-13",
+   "tiktok": null,
+   "youtube": null
+  },
+  {
+   "datum": "2026-11-14",
    "tiktok": null,
    "youtube": null
   }
@@ -69,7 +74,7 @@
    "datum": "2026-11-12",
    "laenge_s": 52,
    "aufrufe": {
-    "tiktok": 235,
+    "tiktok": 236,
     "youtube": null
    },
    "likes": {
@@ -95,6 +100,32 @@
    "datum": "2026-11-13",
    "laenge_s": 58,
    "aufrufe": {
+    "tiktok": 753,
+    "youtube": null
+   },
+   "likes": {
+    "tiktok": 9,
+    "youtube": null
+   },
+   "kommentare": {
+    "tiktok": 0,
+    "youtube": null
+   },
+   "teilen": {
+    "tiktok": 0,
+    "youtube": null
+   },
+   "bindung_prozent": {
+    "tiktok": null,
+    "youtube": null
+   }
+  },
+  {
+   "teil": 4,
+   "titel": "This Offer Exists to Manipulate You 🎯",
+   "datum": "2026-11-14",
+   "laenge_s": 57,
+   "aufrufe": {
     "tiktok": null,
     "youtube": null
    },
@@ -118,18 +149,6 @@
  ],
  "naechste_posts": [
   {
-   "teil": 4,
-   "titel": "This Offer Exists to Manipulate You 🎯",
-   "plattform": "youtube",
-   "datum": "2026-11-14T16:00:00+01:00"
-  },
-  {
-   "teil": 4,
-   "titel": "This Offer Exists to Manipulate You 🎯",
-   "plattform": "tiktok",
-   "datum": "2026-11-14T18:00:00+01:00"
-  },
-  {
    "teil": 5,
    "titel": "The Most Expensive “No” in History 🎬",
    "plattform": "youtube",
@@ -152,6 +171,18 @@
    "titel": "Why a Higher Price Sold Better 🏷️",
    "plattform": "tiktok",
    "datum": "2026-11-16T18:00:00+01:00"
+  },
+  {
+   "teil": 7,
+   "titel": "He Gave Away So Much Gold, the Price Fell 👑",
+   "plattform": "youtube",
+   "datum": "2026-11-17T16:00:00+01:00"
+  },
+  {
+   "teil": 7,
+   "titel": "He Gave Away So Much Gold, the Price Fell 👑",
+   "plattform": "tiktok",
+   "datum": "2026-11-17T18:00:00+01:00"
   }
  ],
  "geplant_bis": "2026-11-19T12:00:00+01:00"
