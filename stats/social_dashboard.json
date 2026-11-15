@@ -1,6 +1,6 @@
 {
- "stand": "2026-11-14T18:50:00+01:00",
- "erzeugt": "2026-11-14T18:49+01:00",
+ "stand": "2026-11-15T18:50:00+01:00",
+ "erzeugt": "2026-11-15T18:49+01:00",
  "ziel_monat": {
   "monat": "2026-11",
   "aufrufe": 50000,
@@ -15,7 +15,7 @@
    "youtube": 0
   },
   "median_aufrufe_ab_48h": {
-   "tiktok": 263.5,
+   "tiktok": 291,
    "youtube": null
   }
  },
@@ -37,6 +37,11 @@
   },
   {
    "datum": "2026-11-14",
+   "tiktok": null,
+   "youtube": null
+  },
+  {
+   "datum": "2026-11-15",
    "tiktok": null,
    "youtube": null
   }
@@ -100,7 +105,7 @@
    "datum": "2026-11-13",
    "laenge_s": 58,
    "aufrufe": {
-    "tiktok": 753,
+    "tiktok": 757,
     "youtube": null
    },
    "likes": {
@@ -126,6 +131,32 @@
    "datum": "2026-11-14",
    "laenge_s": 57,
    "aufrufe": {
+    "tiktok": 241,
+    "youtube": null
+   },
+   "likes": {
+    "tiktok": 2,
+    "youtube": null
+   },
+   "kommentare": {
+    "tiktok": 0,
+    "youtube": null
+   },
+   "teilen": {
+    "tiktok": 0,
+    "youtube": null
+   },
+   "bindung_prozent": {
+    "tiktok": null,
+    "youtube": null
+   }
+  },
+  {
+   "teil": 5,
+   "titel": "The Most Expensive “No” in History 🎬",
+   "datum": "2026-11-15",
+   "laenge_s": 57,
+   "aufrufe": {
     "tiktok": null,
     "youtube": null
    },
@@ -149,18 +180,6 @@
  ],
  "naechste_posts": [
   {
-   "teil": 5,
-   "titel": "The Most Expensive “No” in History 🎬",
-   "plattform": "youtube",
-   "datum": "2026-11-15T16:00:00+01:00"
-  },
-  {
-   "teil": 5,
-   "titel": "The Most Expensive “No” in History 🎬",
-   "plattform": "tiktok",
-   "datum": "2026-11-15T18:00:00+01:00"
-  },
-  {
    "teil": 6,
    "titel": "Why a Higher Price Sold Better 🏷️",
    "plattform": "youtube",
@@ -183,6 +202,18 @@
    "titel": "He Gave Away So Much Gold, the Price Fell 👑",
    "plattform": "tiktok",
    "datum": "2026-11-17T18:00:00+01:00"
+  },
+  {
+   "teil": 8,
+   "titel": "Your Bank Doesn't Lend Out Your Savings 🏦",
+   "plattform": "youtube",
+   "datum": "2026-11-18T10:00:00+01:00"
+  },
+  {
+   "teil": 8,
+   "titel": "Your Bank Doesn't Lend Out Your Savings 🏦",
+   "plattform": "tiktok",
+   "datum": "2026-11-18T12:00:00+01:00"
   }
  ],
  "geplant_bis": "2026-11-19T12:00:00+01:00"
