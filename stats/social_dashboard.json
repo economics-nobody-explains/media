@@ -1,18 +1,18 @@
 {
- "stand": "2026-11-15T18:50:00+01:00",
- "erzeugt": "2026-11-15T18:49+01:00",
+ "stand": "2026-11-16T13:30:00+01:00",
+ "erzeugt": "2026-11-16T14:00+01:00",
  "ziel_monat": {
   "monat": "2026-11",
   "aufrufe": 50000,
   "follower": 300
  },
  "summen": {
-  "aufrufe_7t": null,
+  "aufrufe_7t": 629,
   "aufrufe_7t_vorwoche": null,
-  "aufrufe_monat": null,
+  "aufrufe_monat": 629,
   "follower": {
    "tiktok": 0,
-   "youtube": 0
+   "youtube": 1
   },
   "median_aufrufe_ab_48h": {
    "tiktok": 291,
@@ -23,17 +23,17 @@
   {
    "datum": "2026-11-11",
    "tiktok": null,
-   "youtube": null
+   "youtube": 59
   },
   {
    "datum": "2026-11-12",
    "tiktok": null,
-   "youtube": null
+   "youtube": 27
   },
   {
    "datum": "2026-11-13",
    "tiktok": null,
-   "youtube": null
+   "youtube": 543
   },
   {
    "datum": "2026-11-14",
@@ -42,6 +42,11 @@
   },
   {
    "datum": "2026-11-15",
+   "tiktok": null,
+   "youtube": null
+  },
+  {
+   "datum": "2026-11-16",
    "tiktok": null,
    "youtube": null
   }
@@ -157,19 +162,19 @@
    "datum": "2026-11-15",
    "laenge_s": 57,
    "aufrufe": {
-    "tiktok": null,
+    "tiktok": 222,
     "youtube": null
    },
    "likes": {
-    "tiktok": null,
+    "tiktok": 1,
     "youtube": null
    },
    "kommentare": {
-    "tiktok": null,
+    "tiktok": 0,
     "youtube": null
    },
    "teilen": {
-    "tiktok": null,
+    "tiktok": 0,
     "youtube": null
    },
    "bindung_prozent": {
@@ -192,6 +197,18 @@
    "datum": "2026-11-16T18:00:00+01:00"
   },
   {
+   "teil": 11,
+   "titel": "Worse Than Zimbabwe: 100 Quintillion 💸",
+   "plattform": "youtube",
+   "datum": "2026-11-17T10:00:00+01:00"
+  },
+  {
+   "teil": 11,
+   "titel": "Worse Than Zimbabwe: 100 Quintillion 💸",
+   "plattform": "tiktok",
+   "datum": "2026-11-17T12:00:00+01:00"
+  },
+  {
    "teil": 7,
    "titel": "He Gave Away So Much Gold, the Price Fell 👑",
    "plattform": "youtube",
@@ -202,19 +219,7 @@
    "titel": "He Gave Away So Much Gold, the Price Fell 👑",
    "plattform": "tiktok",
    "datum": "2026-11-17T18:00:00+01:00"
-  },
-  {
-   "teil": 8,
-   "titel": "Your Bank Doesn't Lend Out Your Savings 🏦",
-   "plattform": "youtube",
-   "datum": "2026-11-18T10:00:00+01:00"
-  },
-  {
-   "teil": 8,
-   "titel": "Your Bank Doesn't Lend Out Your Savings 🏦",
-   "plattform": "tiktok",
-   "datum": "2026-11-18T12:00:00+01:00"
   }
  ],
- "geplant_bis": "2026-11-19T12:00:00+01:00"
+ "geplant_bis": "2026-11-21T18:00:00+01:00"
 }
