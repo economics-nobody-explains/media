@@ -1,21 +1,21 @@
 {
  "stand": "2026-11-16T18:50:00+01:00",
- "erzeugt": "2026-11-16T18:50+01:00",
+ "erzeugt": "2026-11-19T23:10+01:00",
  "ziel_monat": {
   "monat": "2026-11",
   "aufrufe": 50000,
   "follower": 300
  },
  "summen": {
-  "aufrufe_7t": 629,
-  "aufrufe_7t_vorwoche": null,
+  "aufrufe_7t": 543,
+  "aufrufe_7t_vorwoche": 86,
   "aufrufe_monat": 629,
   "follower": {
    "tiktok": 0,
    "youtube": 1
   },
   "median_aufrufe_ab_48h": {
-   "tiktok": 266.0,
+   "tiktok": 241,
    "youtube": null
   }
  },
@@ -207,45 +207,201 @@
     "tiktok": null,
     "youtube": null
    }
+  },
+  {
+   "teil": 7,
+   "titel": "He Gave Away So Much Gold, the Price Fell 👑",
+   "datum": "2026-11-17",
+   "laenge_s": 57,
+   "aufrufe": {
+    "tiktok": null,
+    "youtube": null
+   },
+   "likes": {
+    "tiktok": null,
+    "youtube": null
+   },
+   "kommentare": {
+    "tiktok": null,
+    "youtube": null
+   },
+   "teilen": {
+    "tiktok": null,
+    "youtube": null
+   },
+   "bindung_prozent": {
+    "tiktok": null,
+    "youtube": null
+   }
+  },
+  {
+   "teil": 8,
+   "titel": "Your Bank Doesn't Lend Out Your Savings 🏦",
+   "datum": "2026-11-18",
+   "laenge_s": 56,
+   "aufrufe": {
+    "tiktok": null,
+    "youtube": null
+   },
+   "likes": {
+    "tiktok": null,
+    "youtube": null
+   },
+   "kommentare": {
+    "tiktok": null,
+    "youtube": null
+   },
+   "teilen": {
+    "tiktok": null,
+    "youtube": null
+   },
+   "bindung_prozent": {
+    "tiktok": null,
+    "youtube": null
+   }
+  },
+  {
+   "teil": 9,
+   "titel": "This Bounty Created MORE Rats 🐀",
+   "datum": "2026-11-18",
+   "laenge_s": 55,
+   "aufrufe": {
+    "tiktok": null,
+    "youtube": null
+   },
+   "likes": {
+    "tiktok": null,
+    "youtube": null
+   },
+   "kommentare": {
+    "tiktok": null,
+    "youtube": null
+   },
+   "teilen": {
+    "tiktok": null,
+    "youtube": null
+   },
+   "bindung_prozent": {
+    "tiktok": null,
+    "youtube": null
+   }
+  },
+  {
+   "teil": 10,
+   "titel": "Kodak Invented the Digital Camera – and Went Broke 📸",
+   "datum": "2026-11-19",
+   "laenge_s": 55,
+   "aufrufe": {
+    "tiktok": null,
+    "youtube": null
+   },
+   "likes": {
+    "tiktok": null,
+    "youtube": null
+   },
+   "kommentare": {
+    "tiktok": null,
+    "youtube": null
+   },
+   "teilen": {
+    "tiktok": null,
+    "youtube": null
+   },
+   "bindung_prozent": {
+    "tiktok": null,
+    "youtube": null
+   }
+  },
+  {
+   "teil": 11,
+   "titel": "Worse Than Zimbabwe: 100 Quintillion 💸",
+   "datum": "2026-11-17",
+   "laenge_s": 60,
+   "aufrufe": {
+    "tiktok": null,
+    "youtube": null
+   },
+   "likes": {
+    "tiktok": null,
+    "youtube": null
+   },
+   "kommentare": {
+    "tiktok": null,
+    "youtube": null
+   },
+   "teilen": {
+    "tiktok": null,
+    "youtube": null
+   },
+   "bindung_prozent": {
+    "tiktok": null,
+    "youtube": null
+   }
+  },
+  {
+   "teil": 12,
+   "titel": "The Euro Lost 30% in Minutes 🇨🇭",
+   "datum": "2026-11-19",
+   "laenge_s": 38,
+   "aufrufe": {
+    "tiktok": null,
+    "youtube": null
+   },
+   "likes": {
+    "tiktok": null,
+    "youtube": null
+   },
+   "kommentare": {
+    "tiktok": null,
+    "youtube": null
+   },
+   "teilen": {
+    "tiktok": null,
+    "youtube": null
+   },
+   "bindung_prozent": {
+    "tiktok": null,
+    "youtube": null
+   }
   }
  ],
  "naechste_posts": [
   {
-   "teil": 11,
-   "titel": "Worse Than Zimbabwe: 100 Quintillion 💸",
+   "teil": 17,
+   "titel": "This Bread Cost 200 Billion Marks 🍞",
    "plattform": "youtube",
-   "datum": "2026-11-17T10:00:00+01:00"
+   "datum": "2026-11-20T16:00:00+01:00"
   },
   {
-   "teil": 11,
-   "titel": "Worse Than Zimbabwe: 100 Quintillion 💸",
+   "teil": 17,
+   "titel": "This Bread Cost 200 Billion Marks 🍞",
    "plattform": "tiktok",
-   "datum": "2026-11-17T12:00:00+01:00"
+   "datum": "2026-11-20T18:00:00+01:00"
   },
   {
-   "teil": 7,
-   "titel": "He Gave Away So Much Gold, the Price Fell 👑",
+   "teil": 18,
+   "titel": "Why Costco Will Never Raise This $1.50 Hot Dog 🌭",
    "plattform": "youtube",
-   "datum": "2026-11-17T16:00:00+01:00"
+   "datum": "2026-11-21T16:00:00+01:00"
   },
   {
-   "teil": 7,
-   "titel": "He Gave Away So Much Gold, the Price Fell 👑",
+   "teil": 18,
+   "titel": "Why Costco Will Never Raise This $1.50 Hot Dog 🌭",
    "plattform": "tiktok",
-   "datum": "2026-11-17T18:00:00+01:00"
+   "datum": "2026-11-21T18:00:00+01:00"
   },
   {
-   "teil": 8,
-   "titel": "Your Bank Doesn't Lend Out Your Savings 🏦",
+   "teil": 19,
+   "titel": "Every Country Is in Debt. So Who Do They Owe? 🌍",
    "plattform": "youtube",
-   "datum": "2026-11-18T10:00:00+01:00"
+   "datum": "2026-11-22T16:00:00+01:00"
   },
   {
-   "teil": 8,
-   "titel": "Your Bank Doesn't Lend Out Your Savings 🏦",
+   "teil": 19,
+   "titel": "Every Country Is in Debt. So Who Do They Owe? 🌍",
    "plattform": "tiktok",
-   "datum": "2026-11-18T12:00:00+01:00"
+   "datum": "2026-11-22T18:00:00+01:00"
   }
  ],
- "geplant_bis": "2026-11-21T18:00:00+01:00"
+ "geplant_bis": "2026-11-24T18:00:00+01:00"
 }
