@@ -1,22 +1,22 @@
 {
- "stand": "2026-11-16T18:50:00+01:00",
- "erzeugt": "2026-11-19T23:10+01:00",
+ "stand": "2026-11-20T18:50:00+01:00",
+ "erzeugt": "2026-11-20T18:50+01:00",
  "ziel_monat": {
   "monat": "2026-11",
   "aufrufe": 50000,
   "follower": 300
  },
  "summen": {
-  "aufrufe_7t": 543,
-  "aufrufe_7t_vorwoche": 86,
-  "aufrufe_monat": 629,
+  "aufrufe_7t": 1920,
+  "aufrufe_7t_vorwoche": 629,
+  "aufrufe_monat": 2549,
   "follower": {
    "tiktok": 0,
    "youtube": 1
   },
   "median_aufrufe_ab_48h": {
-   "tiktok": 241,
-   "youtube": null
+   "tiktok": 241.5,
+   "youtube": 172.0
   }
  },
  "taeglich": [
@@ -38,15 +38,35 @@
   {
    "datum": "2026-11-14",
    "tiktok": null,
-   "youtube": null
+   "youtube": 342
   },
   {
    "datum": "2026-11-15",
    "tiktok": null,
-   "youtube": null
+   "youtube": 120
   },
   {
    "datum": "2026-11-16",
+   "tiktok": null,
+   "youtube": 1084
+  },
+  {
+   "datum": "2026-11-17",
+   "tiktok": null,
+   "youtube": 374
+  },
+  {
+   "datum": "2026-11-18",
+   "tiktok": null,
+   "youtube": null
+  },
+  {
+   "datum": "2026-11-19",
+   "tiktok": null,
+   "youtube": null
+  },
+  {
+   "datum": "2026-11-20",
    "tiktok": null,
    "youtube": null
   }
@@ -59,23 +79,23 @@
    "laenge_s": 49,
    "aufrufe": {
     "tiktok": 291,
-    "youtube": null
+    "youtube": 60
    },
    "likes": {
     "tiktok": 4,
-    "youtube": null
+    "youtube": 0
    },
    "kommentare": {
     "tiktok": 0,
-    "youtube": null
+    "youtube": 0
    },
    "teilen": {
     "tiktok": 1,
-    "youtube": null
+    "youtube": 0
    },
    "bindung_prozent": {
     "tiktok": null,
-    "youtube": null
+    "youtube": 12.2
    }
   },
   {
@@ -85,23 +105,23 @@
    "laenge_s": 52,
    "aufrufe": {
     "tiktok": 236,
-    "youtube": null
+    "youtube": 34
    },
    "likes": {
     "tiktok": 2,
-    "youtube": null
+    "youtube": 0
    },
    "kommentare": {
     "tiktok": 0,
-    "youtube": null
+    "youtube": 0
    },
    "teilen": {
     "tiktok": 0,
-    "youtube": null
+    "youtube": 0
    },
    "bindung_prozent": {
     "tiktok": null,
-    "youtube": null
+    "youtube": 30.8
    }
   },
   {
@@ -111,23 +131,23 @@
    "laenge_s": 58,
    "aufrufe": {
     "tiktok": 757,
-    "youtube": null
+    "youtube": 586
    },
    "likes": {
     "tiktok": 9,
-    "youtube": null
+    "youtube": 13
    },
    "kommentare": {
     "tiktok": 0,
-    "youtube": null
+    "youtube": 0
    },
    "teilen": {
     "tiktok": 0,
-    "youtube": null
+    "youtube": 0
    },
    "bindung_prozent": {
     "tiktok": null,
-    "youtube": null
+    "youtube": 29.3
    }
   },
   {
@@ -136,24 +156,24 @@
    "datum": "2026-11-14",
    "laenge_s": 57,
    "aufrufe": {
-    "tiktok": 241,
-    "youtube": null
+    "tiktok": 242,
+    "youtube": 313
    },
    "likes": {
-    "tiktok": 2,
-    "youtube": null
+    "tiktok": 1,
+    "youtube": 4
    },
    "kommentare": {
     "tiktok": 0,
-    "youtube": null
+    "youtube": 0
    },
    "teilen": {
     "tiktok": 0,
-    "youtube": null
+    "youtube": 0
    },
    "bindung_prozent": {
     "tiktok": null,
-    "youtube": null
+    "youtube": 21.1
    }
   },
   {
@@ -162,7 +182,85 @@
    "datum": "2026-11-15",
    "laenge_s": 57,
    "aufrufe": {
-    "tiktok": 222,
+    "tiktok": 226,
+    "youtube": 140
+   },
+   "likes": {
+    "tiktok": 1,
+    "youtube": 1
+   },
+   "kommentare": {
+    "tiktok": 0,
+    "youtube": 0
+   },
+   "teilen": {
+    "tiktok": 0,
+    "youtube": 0
+   },
+   "bindung_prozent": {
+    "tiktok": null,
+    "youtube": 10.5
+   }
+  },
+  {
+   "teil": 6,
+   "titel": "Why a Higher Price Sold Better 🏷️",
+   "datum": "2026-11-16",
+   "laenge_s": 54,
+   "aufrufe": {
+    "tiktok": 717,
+    "youtube": 1072
+   },
+   "likes": {
+    "tiktok": 4,
+    "youtube": 8
+   },
+   "kommentare": {
+    "tiktok": 0,
+    "youtube": 0
+   },
+   "teilen": {
+    "tiktok": 0,
+    "youtube": 0
+   },
+   "bindung_prozent": {
+    "tiktok": null,
+    "youtube": 7.4
+   }
+  },
+  {
+   "teil": 7,
+   "titel": "He Gave Away So Much Gold, the Price Fell 👑",
+   "datum": "2026-11-17",
+   "laenge_s": 57,
+   "aufrufe": {
+    "tiktok": 241,
+    "youtube": 142
+   },
+   "likes": {
+    "tiktok": 0,
+    "youtube": 3
+   },
+   "kommentare": {
+    "tiktok": 0,
+    "youtube": 0
+   },
+   "teilen": {
+    "tiktok": 0,
+    "youtube": 0
+   },
+   "bindung_prozent": {
+    "tiktok": null,
+    "youtube": 19.3
+   }
+  },
+  {
+   "teil": 8,
+   "titel": "Your Bank Doesn't Lend Out Your Savings 🏦",
+   "datum": "2026-11-18",
+   "laenge_s": 56,
+   "aufrufe": {
+    "tiktok": 238,
     "youtube": null
    },
    "likes": {
@@ -175,84 +273,6 @@
    },
    "teilen": {
     "tiktok": 0,
-    "youtube": null
-   },
-   "bindung_prozent": {
-    "tiktok": null,
-    "youtube": null
-   }
-  },
-  {
-   "teil": 6,
-   "titel": "Why a Higher Price Sold Better 🏷️",
-   "datum": "2026-11-16",
-   "laenge_s": 54,
-   "aufrufe": {
-    "tiktok": null,
-    "youtube": null
-   },
-   "likes": {
-    "tiktok": null,
-    "youtube": null
-   },
-   "kommentare": {
-    "tiktok": null,
-    "youtube": null
-   },
-   "teilen": {
-    "tiktok": null,
-    "youtube": null
-   },
-   "bindung_prozent": {
-    "tiktok": null,
-    "youtube": null
-   }
-  },
-  {
-   "teil": 7,
-   "titel": "He Gave Away So Much Gold, the Price Fell 👑",
-   "datum": "2026-11-17",
-   "laenge_s": 57,
-   "aufrufe": {
-    "tiktok": null,
-    "youtube": null
-   },
-   "likes": {
-    "tiktok": null,
-    "youtube": null
-   },
-   "kommentare": {
-    "tiktok": null,
-    "youtube": null
-   },
-   "teilen": {
-    "tiktok": null,
-    "youtube": null
-   },
-   "bindung_prozent": {
-    "tiktok": null,
-    "youtube": null
-   }
-  },
-  {
-   "teil": 8,
-   "titel": "Your Bank Doesn't Lend Out Your Savings 🏦",
-   "datum": "2026-11-18",
-   "laenge_s": 56,
-   "aufrufe": {
-    "tiktok": null,
-    "youtube": null
-   },
-   "likes": {
-    "tiktok": null,
-    "youtube": null
-   },
-   "kommentare": {
-    "tiktok": null,
-    "youtube": null
-   },
-   "teilen": {
-    "tiktok": null,
     "youtube": null
    },
    "bindung_prozent": {
@@ -266,19 +286,19 @@
    "datum": "2026-11-18",
    "laenge_s": 55,
    "aufrufe": {
-    "tiktok": null,
+    "tiktok": 234,
     "youtube": null
    },
    "likes": {
-    "tiktok": null,
+    "tiktok": 2,
     "youtube": null
    },
    "kommentare": {
-    "tiktok": null,
+    "tiktok": 0,
     "youtube": null
    },
    "teilen": {
-    "tiktok": null,
+    "tiktok": 0,
     "youtube": null
    },
    "bindung_prozent": {
@@ -292,19 +312,19 @@
    "datum": "2026-11-19",
    "laenge_s": 55,
    "aufrufe": {
-    "tiktok": null,
+    "tiktok": 614,
     "youtube": null
    },
    "likes": {
-    "tiktok": null,
+    "tiktok": 2,
     "youtube": null
    },
    "kommentare": {
-    "tiktok": null,
+    "tiktok": 0,
     "youtube": null
    },
    "teilen": {
-    "tiktok": null,
+    "tiktok": 0,
     "youtube": null
    },
    "bindung_prozent": {
@@ -318,19 +338,45 @@
    "datum": "2026-11-17",
    "laenge_s": 60,
    "aufrufe": {
+    "tiktok": 245,
+    "youtube": 202
+   },
+   "likes": {
+    "tiktok": 1,
+    "youtube": 1
+   },
+   "kommentare": {
+    "tiktok": 0,
+    "youtube": 0
+   },
+   "teilen": {
+    "tiktok": 0,
+    "youtube": 0
+   },
+   "bindung_prozent": {
     "tiktok": null,
+    "youtube": 26.7
+   }
+  },
+  {
+   "teil": 12,
+   "titel": "The Euro Lost 30% in Minutes 🇨🇭",
+   "datum": "2026-11-19",
+   "laenge_s": 38,
+   "aufrufe": {
+    "tiktok": 454,
     "youtube": null
    },
    "likes": {
-    "tiktok": null,
+    "tiktok": 0,
     "youtube": null
    },
    "kommentare": {
-    "tiktok": null,
+    "tiktok": 0,
     "youtube": null
    },
    "teilen": {
-    "tiktok": null,
+    "tiktok": 0,
     "youtube": null
    },
    "bindung_prozent": {
@@ -339,10 +385,10 @@
    }
   },
   {
-   "teil": 12,
-   "titel": "The Euro Lost 30% in Minutes 🇨🇭",
-   "datum": "2026-11-19",
-   "laenge_s": 38,
+   "teil": 17,
+   "titel": "This Bread Cost 200 Billion Marks 🍞",
+   "datum": "2026-11-20",
+   "laenge_s": 36,
    "aufrufe": {
     "tiktok": null,
     "youtube": null
@@ -367,18 +413,6 @@
  ],
  "naechste_posts": [
   {
-   "teil": 17,
-   "titel": "This Bread Cost 200 Billion Marks 🍞",
-   "plattform": "youtube",
-   "datum": "2026-11-20T16:00:00+01:00"
-  },
-  {
-   "teil": 17,
-   "titel": "This Bread Cost 200 Billion Marks 🍞",
-   "plattform": "tiktok",
-   "datum": "2026-11-20T18:00:00+01:00"
-  },
-  {
    "teil": 18,
    "titel": "Why Costco Will Never Raise This $1.50 Hot Dog 🌭",
    "plattform": "youtube",
@@ -401,6 +435,18 @@
    "titel": "Every Country Is in Debt. So Who Do They Owe? 🌍",
    "plattform": "tiktok",
    "datum": "2026-11-22T18:00:00+01:00"
+  },
+  {
+   "teil": 20,
+   "titel": "$100 Becomes $150 in 45 Days. What Could Go Wrong? 💸",
+   "plattform": "youtube",
+   "datum": "2026-11-23T16:00:00+01:00"
+  },
+  {
+   "teil": 20,
+   "titel": "$100 Becomes $150 in 45 Days. What Could Go Wrong? 💸",
+   "plattform": "tiktok",
+   "datum": "2026-11-23T18:00:00+01:00"
   }
  ],
  "geplant_bis": "2026-11-24T18:00:00+01:00"
