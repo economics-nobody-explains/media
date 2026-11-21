@@ -1,22 +1,22 @@
 {
- "stand": "2026-11-20T18:50:00+01:00",
- "erzeugt": "2026-11-20T18:50+01:00",
+ "stand": "2026-11-21T18:52:00+01:00",
+ "erzeugt": "2026-11-21T18:51+01:00",
  "ziel_monat": {
   "monat": "2026-11",
   "aufrufe": 50000,
   "follower": 300
  },
  "summen": {
-  "aufrufe_7t": 1920,
-  "aufrufe_7t_vorwoche": 629,
-  "aufrufe_monat": 2549,
+  "aufrufe_7t": 1843,
+  "aufrufe_7t_vorwoche": 971,
+  "aufrufe_monat": 2814,
   "follower": {
    "tiktok": 0,
    "youtube": 1
   },
   "median_aufrufe_ab_48h": {
-   "tiktok": 241.5,
-   "youtube": 172.0
+   "tiktok": 243.5,
+   "youtube": 175.0
   }
  },
  "taeglich": [
@@ -58,7 +58,7 @@
   {
    "datum": "2026-11-18",
    "tiktok": null,
-   "youtube": null
+   "youtube": 265
   },
   {
    "datum": "2026-11-19",
@@ -68,6 +68,11 @@
   {
    "datum": "2026-11-20",
    "tiktok": null,
+   "youtube": null
+  },
+  {
+   "datum": "2026-11-21",
+   "tiktok": 0,
    "youtube": null
   }
  ],
@@ -130,7 +135,7 @@
    "datum": "2026-11-13",
    "laenge_s": 58,
    "aufrufe": {
-    "tiktok": 757,
+    "tiktok": 759,
     "youtube": 586
    },
    "likes": {
@@ -157,7 +162,7 @@
    "laenge_s": 57,
    "aufrufe": {
     "tiktok": 242,
-    "youtube": 313
+    "youtube": 311
    },
    "likes": {
     "tiktok": 1,
@@ -183,7 +188,7 @@
    "laenge_s": 57,
    "aufrufe": {
     "tiktok": 226,
-    "youtube": 140
+    "youtube": 150
    },
    "likes": {
     "tiktok": 1,
@@ -209,7 +214,7 @@
    "laenge_s": 54,
    "aufrufe": {
     "tiktok": 717,
-    "youtube": 1072
+    "youtube": 1074
    },
    "likes": {
     "tiktok": 4,
@@ -235,7 +240,7 @@
    "laenge_s": 57,
    "aufrufe": {
     "tiktok": 241,
-    "youtube": 142
+    "youtube": 146
    },
    "likes": {
     "tiktok": 0,
@@ -261,23 +266,23 @@
    "laenge_s": 56,
    "aufrufe": {
     "tiktok": 238,
-    "youtube": null
+    "youtube": 200
    },
    "likes": {
     "tiktok": 1,
-    "youtube": null
+    "youtube": 2
    },
    "kommentare": {
     "tiktok": 0,
-    "youtube": null
+    "youtube": 0
    },
    "teilen": {
     "tiktok": 0,
-    "youtube": null
+    "youtube": 0
    },
    "bindung_prozent": {
     "tiktok": null,
-    "youtube": null
+    "youtube": 10.7
    }
   },
   {
@@ -287,23 +292,23 @@
    "laenge_s": 55,
    "aufrufe": {
     "tiktok": 234,
-    "youtube": null
+    "youtube": 45
    },
    "likes": {
     "tiktok": 2,
-    "youtube": null
+    "youtube": 2
    },
    "kommentare": {
     "tiktok": 0,
-    "youtube": null
+    "youtube": 0
    },
    "teilen": {
     "tiktok": 0,
-    "youtube": null
+    "youtube": 0
    },
    "bindung_prozent": {
     "tiktok": null,
-    "youtube": null
+    "youtube": 30.9
    }
   },
   {
@@ -312,7 +317,7 @@
    "datum": "2026-11-19",
    "laenge_s": 55,
    "aufrufe": {
-    "tiktok": 614,
+    "tiktok": 675,
     "youtube": null
    },
    "likes": {
@@ -339,7 +344,7 @@
    "laenge_s": 60,
    "aufrufe": {
     "tiktok": 245,
-    "youtube": 202
+    "youtube": 206
    },
    "likes": {
     "tiktok": 1,
@@ -364,11 +369,11 @@
    "datum": "2026-11-19",
    "laenge_s": 38,
    "aufrufe": {
-    "tiktok": 454,
+    "tiktok": 695,
     "youtube": null
    },
    "likes": {
-    "tiktok": 0,
+    "tiktok": 2,
     "youtube": null
    },
    "kommentare": {
@@ -389,6 +394,32 @@
    "titel": "This Bread Cost 200 Billion Marks 🍞",
    "datum": "2026-11-20",
    "laenge_s": 36,
+   "aufrufe": {
+    "tiktok": 212,
+    "youtube": null
+   },
+   "likes": {
+    "tiktok": 1,
+    "youtube": null
+   },
+   "kommentare": {
+    "tiktok": 0,
+    "youtube": null
+   },
+   "teilen": {
+    "tiktok": 0,
+    "youtube": null
+   },
+   "bindung_prozent": {
+    "tiktok": null,
+    "youtube": null
+   }
+  },
+  {
+   "teil": 18,
+   "titel": "Why Costco Will Never Raise This $1.50 Hot Dog 🌭",
+   "datum": "2026-11-21",
+   "laenge_s": 35,
    "aufrufe": {
     "tiktok": null,
     "youtube": null
@@ -413,18 +444,6 @@
  ],
  "naechste_posts": [
   {
-   "teil": 18,
-   "titel": "Why Costco Will Never Raise This $1.50 Hot Dog 🌭",
-   "plattform": "youtube",
-   "datum": "2026-11-21T16:00:00+01:00"
-  },
-  {
-   "teil": 18,
-   "titel": "Why Costco Will Never Raise This $1.50 Hot Dog 🌭",
-   "plattform": "tiktok",
-   "datum": "2026-11-21T18:00:00+01:00"
-  },
-  {
    "teil": 19,
    "titel": "Every Country Is in Debt. So Who Do They Owe? 🌍",
    "plattform": "youtube",
@@ -447,6 +466,18 @@
    "titel": "$100 Becomes $150 in 45 Days. What Could Go Wrong? 💸",
    "plattform": "tiktok",
    "datum": "2026-11-23T18:00:00+01:00"
+  },
+  {
+   "teil": 21,
+   "titel": "How a $429 Bread Maker Sold the $275 One 🍞",
+   "plattform": "youtube",
+   "datum": "2026-11-24T16:00:00+01:00"
+  },
+  {
+   "teil": 21,
+   "titel": "How a $429 Bread Maker Sold the $275 One 🍞",
+   "plattform": "tiktok",
+   "datum": "2026-11-24T18:00:00+01:00"
   }
  ],
  "geplant_bis": "2026-11-24T18:00:00+01:00"
