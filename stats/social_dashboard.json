@@ -1,22 +1,22 @@
 {
- "stand": "2026-11-21T18:52:00+01:00",
- "erzeugt": "2026-11-21T18:51+01:00",
+ "stand": "2026-11-22T18:55:00+01:00",
+ "erzeugt": "2026-11-22T18:50+01:00",
  "ziel_monat": {
   "monat": "2026-11",
   "aufrufe": 50000,
   "follower": 300
  },
  "summen": {
-  "aufrufe_7t": 1843,
-  "aufrufe_7t_vorwoche": 971,
-  "aufrufe_monat": 2814,
+  "aufrufe_7t": 1828,
+  "aufrufe_7t_vorwoche": 1091,
+  "aufrufe_monat": 2919,
   "follower": {
    "tiktok": 0,
    "youtube": 1
   },
   "median_aufrufe_ab_48h": {
-   "tiktok": 243.5,
-   "youtube": 175.0
+   "tiktok": 242,
+   "youtube": 153.5
   }
  },
  "taeglich": [
@@ -63,7 +63,7 @@
   {
    "datum": "2026-11-19",
    "tiktok": null,
-   "youtube": null
+   "youtube": 105
   },
   {
    "datum": "2026-11-20",
@@ -72,6 +72,11 @@
   },
   {
    "datum": "2026-11-21",
+   "tiktok": null,
+   "youtube": null
+  },
+  {
+   "datum": "2026-11-22",
    "tiktok": 0,
    "youtube": null
   }
@@ -136,7 +141,7 @@
    "laenge_s": 58,
    "aufrufe": {
     "tiktok": 759,
-    "youtube": 586
+    "youtube": 587
    },
    "likes": {
     "tiktok": 9,
@@ -188,7 +193,7 @@
    "laenge_s": 57,
    "aufrufe": {
     "tiktok": 226,
-    "youtube": 150
+    "youtube": 158
    },
    "likes": {
     "tiktok": 1,
@@ -240,7 +245,7 @@
    "laenge_s": 57,
    "aufrufe": {
     "tiktok": 241,
-    "youtube": 146
+    "youtube": 149
    },
    "likes": {
     "tiktok": 0,
@@ -266,7 +271,7 @@
    "laenge_s": 56,
    "aufrufe": {
     "tiktok": 238,
-    "youtube": 200
+    "youtube": 204
    },
    "likes": {
     "tiktok": 1,
@@ -292,7 +297,7 @@
    "laenge_s": 55,
    "aufrufe": {
     "tiktok": 234,
-    "youtube": 45
+    "youtube": 48
    },
    "likes": {
     "tiktok": 2,
@@ -318,23 +323,23 @@
    "laenge_s": 55,
    "aufrufe": {
     "tiktok": 675,
-    "youtube": null
+    "youtube": 51
    },
    "likes": {
     "tiktok": 2,
-    "youtube": null
+    "youtube": 2
    },
    "kommentare": {
     "tiktok": 0,
-    "youtube": null
+    "youtube": 0
    },
    "teilen": {
     "tiktok": 0,
-    "youtube": null
+    "youtube": 0
    },
    "bindung_prozent": {
     "tiktok": null,
-    "youtube": null
+    "youtube": 34.5
    }
   },
   {
@@ -344,7 +349,7 @@
    "laenge_s": 60,
    "aufrufe": {
     "tiktok": 245,
-    "youtube": 206
+    "youtube": 207
    },
    "likes": {
     "tiktok": 1,
@@ -370,23 +375,23 @@
    "laenge_s": 38,
    "aufrufe": {
     "tiktok": 695,
-    "youtube": null
+    "youtube": 30
    },
    "likes": {
     "tiktok": 2,
-    "youtube": null
+    "youtube": 0
    },
    "kommentare": {
     "tiktok": 0,
-    "youtube": null
+    "youtube": 0
    },
    "teilen": {
     "tiktok": 0,
-    "youtube": null
+    "youtube": 0
    },
    "bindung_prozent": {
     "tiktok": null,
-    "youtube": null
+    "youtube": 23.7
    }
   },
   {
@@ -395,7 +400,7 @@
    "datum": "2026-11-20",
    "laenge_s": 36,
    "aufrufe": {
-    "tiktok": 212,
+    "tiktok": 216,
     "youtube": null
    },
    "likes": {
@@ -421,6 +426,32 @@
    "datum": "2026-11-21",
    "laenge_s": 35,
    "aufrufe": {
+    "tiktok": 218,
+    "youtube": null
+   },
+   "likes": {
+    "tiktok": 1,
+    "youtube": null
+   },
+   "kommentare": {
+    "tiktok": 0,
+    "youtube": null
+   },
+   "teilen": {
+    "tiktok": 0,
+    "youtube": null
+   },
+   "bindung_prozent": {
+    "tiktok": null,
+    "youtube": null
+   }
+  },
+  {
+   "teil": 19,
+   "titel": "Every Country Is in Debt. So Who Do They Owe? 🌍",
+   "datum": "2026-11-22",
+   "laenge_s": 35,
+   "aufrufe": {
     "tiktok": null,
     "youtube": null
    },
@@ -444,18 +475,6 @@
  ],
  "naechste_posts": [
   {
-   "teil": 19,
-   "titel": "Every Country Is in Debt. So Who Do They Owe? 🌍",
-   "plattform": "youtube",
-   "datum": "2026-11-22T16:00:00+01:00"
-  },
-  {
-   "teil": 19,
-   "titel": "Every Country Is in Debt. So Who Do They Owe? 🌍",
-   "plattform": "tiktok",
-   "datum": "2026-11-22T18:00:00+01:00"
-  },
-  {
    "teil": 20,
    "titel": "$100 Becomes $150 in 45 Days. What Could Go Wrong? 💸",
    "plattform": "youtube",
@@ -478,7 +497,19 @@
    "titel": "How a $429 Bread Maker Sold the $275 One 🍞",
    "plattform": "tiktok",
    "datum": "2026-11-24T18:00:00+01:00"
+  },
+  {
+   "teil": 22,
+   "titel": "Brazil Fixed 2,500% Inflation With Fake Money 🇧🇷",
+   "plattform": "youtube",
+   "datum": "2026-11-25T16:00:00+01:00"
+  },
+  {
+   "teil": 22,
+   "titel": "Brazil Fixed 2,500% Inflation With Fake Money 🇧🇷",
+   "plattform": "tiktok",
+   "datum": "2026-11-25T18:00:00+01:00"
   }
  ],
- "geplant_bis": "2026-11-24T18:00:00+01:00"
+ "geplant_bis": "2026-11-28T18:00:00+01:00"
 }
