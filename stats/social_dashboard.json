@@ -1,22 +1,22 @@
 {
- "stand": "2026-11-22T18:55:00+01:00",
- "erzeugt": "2026-11-22T18:50+01:00",
+ "stand": "2026-11-23T18:55:00+01:00",
+ "erzeugt": "2026-11-23T18:50+01:00",
  "ziel_monat": {
   "monat": "2026-11",
   "aufrufe": 50000,
   "follower": 300
  },
  "summen": {
-  "aufrufe_7t": 1828,
-  "aufrufe_7t_vorwoche": 1091,
-  "aufrufe_monat": 2919,
+  "aufrufe_7t": 1341,
+  "aufrufe_7t_vorwoche": 2175,
+  "aufrufe_monat": 3516,
   "follower": {
    "tiktok": 0,
    "youtube": 1
   },
   "median_aufrufe_ab_48h": {
-   "tiktok": 242,
-   "youtube": 153.5
+   "tiktok": 241.5,
+   "youtube": 161
   }
  },
  "taeglich": [
@@ -68,7 +68,7 @@
   {
    "datum": "2026-11-20",
    "tiktok": null,
-   "youtube": null
+   "youtube": 597
   },
   {
    "datum": "2026-11-21",
@@ -77,6 +77,11 @@
   },
   {
    "datum": "2026-11-22",
+   "tiktok": 0,
+   "youtube": null
+  },
+  {
+   "datum": "2026-11-23",
    "tiktok": 0,
    "youtube": null
   }
@@ -193,7 +198,7 @@
    "laenge_s": 57,
    "aufrufe": {
     "tiktok": 226,
-    "youtube": 158
+    "youtube": 161
    },
    "likes": {
     "tiktok": 1,
@@ -219,7 +224,7 @@
    "laenge_s": 54,
    "aufrufe": {
     "tiktok": 717,
-    "youtube": 1074
+    "youtube": 1075
    },
    "likes": {
     "tiktok": 4,
@@ -245,7 +250,7 @@
    "laenge_s": 57,
    "aufrufe": {
     "tiktok": 241,
-    "youtube": 149
+    "youtube": 152
    },
    "likes": {
     "tiktok": 0,
@@ -261,7 +266,7 @@
    },
    "bindung_prozent": {
     "tiktok": null,
-    "youtube": 19.3
+    "youtube": 17.5
    }
   },
   {
@@ -323,7 +328,7 @@
    "laenge_s": 55,
    "aufrufe": {
     "tiktok": 675,
-    "youtube": 51
+    "youtube": 58
    },
    "likes": {
     "tiktok": 2,
@@ -339,7 +344,7 @@
    },
    "bindung_prozent": {
     "tiktok": null,
-    "youtube": 34.5
+    "youtube": 32.7
    }
   },
   {
@@ -375,11 +380,11 @@
    "laenge_s": 38,
    "aufrufe": {
     "tiktok": 695,
-    "youtube": 30
+    "youtube": 48
    },
    "likes": {
     "tiktok": 2,
-    "youtube": 0
+    "youtube": 1
    },
    "kommentare": {
     "tiktok": 0,
@@ -391,7 +396,7 @@
    },
    "bindung_prozent": {
     "tiktok": null,
-    "youtube": 23.7
+    "youtube": 21.1
    }
   },
   {
@@ -400,24 +405,24 @@
    "datum": "2026-11-20",
    "laenge_s": 36,
    "aufrufe": {
-    "tiktok": 216,
-    "youtube": null
+    "tiktok": 217,
+    "youtube": 563
    },
    "likes": {
     "tiktok": 1,
-    "youtube": null
+    "youtube": 6
    },
    "kommentare": {
     "tiktok": 0,
-    "youtube": null
+    "youtube": 0
    },
    "teilen": {
     "tiktok": 0,
-    "youtube": null
+    "youtube": 0
    },
    "bindung_prozent": {
     "tiktok": null,
-    "youtube": null
+    "youtube": 22.2
    }
   },
   {
@@ -452,6 +457,32 @@
    "datum": "2026-11-22",
    "laenge_s": 35,
    "aufrufe": {
+    "tiktok": 544,
+    "youtube": null
+   },
+   "likes": {
+    "tiktok": 6,
+    "youtube": null
+   },
+   "kommentare": {
+    "tiktok": 0,
+    "youtube": null
+   },
+   "teilen": {
+    "tiktok": 0,
+    "youtube": null
+   },
+   "bindung_prozent": {
+    "tiktok": null,
+    "youtube": null
+   }
+  },
+  {
+   "teil": 20,
+   "titel": "$100 Becomes $150 in 45 Days. What Could Go Wrong? 💸",
+   "datum": "2026-11-23",
+   "laenge_s": 35,
+   "aufrufe": {
     "tiktok": null,
     "youtube": null
    },
@@ -475,18 +506,6 @@
  ],
  "naechste_posts": [
   {
-   "teil": 20,
-   "titel": "$100 Becomes $150 in 45 Days. What Could Go Wrong? 💸",
-   "plattform": "youtube",
-   "datum": "2026-11-23T16:00:00+01:00"
-  },
-  {
-   "teil": 20,
-   "titel": "$100 Becomes $150 in 45 Days. What Could Go Wrong? 💸",
-   "plattform": "tiktok",
-   "datum": "2026-11-23T18:00:00+01:00"
-  },
-  {
    "teil": 21,
    "titel": "How a $429 Bread Maker Sold the $275 One 🍞",
    "plattform": "youtube",
@@ -509,6 +528,18 @@
    "titel": "Brazil Fixed 2,500% Inflation With Fake Money 🇧🇷",
    "plattform": "tiktok",
    "datum": "2026-11-25T18:00:00+01:00"
+  },
+  {
+   "teil": 23,
+   "titel": "A Bank Offered Mortgages at MINUS 0.5% 🇩🇰",
+   "plattform": "youtube",
+   "datum": "2026-11-26T16:00:00+01:00"
+  },
+  {
+   "teil": 23,
+   "titel": "A Bank Offered Mortgages at MINUS 0.5% 🇩🇰",
+   "plattform": "tiktok",
+   "datum": "2026-11-26T18:00:00+01:00"
   }
  ],
  "geplant_bis": "2026-11-28T18:00:00+01:00"
