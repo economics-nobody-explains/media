@@ -1,21 +1,21 @@
 {
- "stand": "2026-11-25T18:50:44+01:00",
- "erzeugt": "2026-11-25T18:50+01:00",
+ "stand": "2026-11-26T18:50:44+01:00",
+ "erzeugt": "2026-11-26T18:50+01:00",
  "ziel_monat": {
   "monat": "2026-11",
   "aufrufe": 50000,
   "follower": 300
  },
  "summen": {
-  "aufrufe_7t": 1675,
-  "aufrufe_7t_vorwoche": 2755,
-  "aufrufe_monat": 4489,
+  "aufrufe_7t": 1672,
+  "aufrufe_7t_vorwoche": 2833,
+  "aufrufe_monat": 4591,
   "follower": {
    "tiktok": 0,
    "youtube": 1
   },
   "median_aufrufe_ab_48h": {
-   "tiktok": 241.5,
+   "tiktok": 241,
    "youtube": 186
   }
  },
@@ -83,7 +83,7 @@
   {
    "datum": "2026-11-23",
    "tiktok": null,
-   "youtube": null
+   "youtube": 102
   },
   {
    "datum": "2026-11-24",
@@ -92,6 +92,11 @@
   },
   {
    "datum": "2026-11-25",
+   "tiktok": 0,
+   "youtube": null
+  },
+  {
+   "datum": "2026-11-26",
    "tiktok": 0,
    "youtube": null
   }
@@ -259,11 +264,11 @@
    "datum": "2026-11-17",
    "laenge_s": 57,
    "aufrufe": {
-    "tiktok": 241,
+    "tiktok": 245,
     "youtube": 155
    },
    "likes": {
-    "tiktok": 0,
+    "tiktok": 1,
     "youtube": 3
    },
    "kommentare": {
@@ -285,11 +290,11 @@
    "datum": "2026-11-18",
    "laenge_s": 56,
    "aufrufe": {
-    "tiktok": 238,
+    "tiktok": 241,
     "youtube": 205
    },
    "likes": {
-    "tiktok": 1,
+    "tiktok": 0,
     "youtube": 2
    },
    "kommentare": {
@@ -311,11 +316,11 @@
    "datum": "2026-11-18",
    "laenge_s": 55,
    "aufrufe": {
-    "tiktok": 234,
+    "tiktok": 238,
     "youtube": 48
    },
    "likes": {
-    "tiktok": 2,
+    "tiktok": 1,
     "youtube": 2
    },
    "kommentare": {
@@ -337,7 +342,7 @@
    "datum": "2026-11-19",
    "laenge_s": 55,
    "aufrufe": {
-    "tiktok": 675,
+    "tiktok": 234,
     "youtube": 56
    },
    "likes": {
@@ -363,11 +368,11 @@
    "datum": "2026-11-17",
    "laenge_s": 60,
    "aufrufe": {
-    "tiktok": 245,
+    "tiktok": 675,
     "youtube": 207
    },
    "likes": {
-    "tiktok": 1,
+    "tiktok": 2,
     "youtube": 1
    },
    "kommentare": {
@@ -416,7 +421,7 @@
    "laenge_s": 36,
    "aufrufe": {
     "tiktok": 217,
-    "youtube": 584
+    "youtube": 583
    },
    "likes": {
     "tiktok": 1,
@@ -519,7 +524,7 @@
    "datum": "2026-11-24",
    "laenge_s": 34,
    "aufrufe": {
-    "tiktok": 223,
+    "tiktok": 224,
     "youtube": null
    },
    "likes": {
@@ -545,6 +550,32 @@
    "datum": "2026-11-25",
    "laenge_s": 36,
    "aufrufe": {
+    "tiktok": 687,
+    "youtube": null
+   },
+   "likes": {
+    "tiktok": 1,
+    "youtube": null
+   },
+   "kommentare": {
+    "tiktok": 0,
+    "youtube": null
+   },
+   "teilen": {
+    "tiktok": 0,
+    "youtube": null
+   },
+   "bindung_prozent": {
+    "tiktok": null,
+    "youtube": null
+   }
+  },
+  {
+   "teil": 23,
+   "titel": "A Bank Offered Mortgages at MINUS 0.5% 🇩🇰",
+   "datum": "2026-11-26",
+   "laenge_s": 36,
+   "aufrufe": {
     "tiktok": null,
     "youtube": null
    },
@@ -568,18 +599,6 @@
  ],
  "naechste_posts": [
   {
-   "teil": 23,
-   "titel": "A Bank Offered Mortgages at MINUS 0.5% 🇩🇰",
-   "plattform": "youtube",
-   "datum": "2026-11-26T16:00:00+01:00"
-  },
-  {
-   "teil": 23,
-   "titel": "A Bank Offered Mortgages at MINUS 0.5% 🇩🇰",
-   "plattform": "tiktok",
-   "datum": "2026-11-26T18:00:00+01:00"
-  },
-  {
    "teil": 24,
    "titel": "This Chocolate Bar Shrank 10%. Spot the Trick 🍫",
    "plattform": "youtube",
@@ -602,6 +621,18 @@
    "titel": "This Stock Went 8x in 6 Months. Then Newton Lost 📉",
    "plattform": "tiktok",
    "datum": "2026-11-28T18:00:00+01:00"
+  },
+  {
+   "teil": 26,
+   "titel": "Japan Owes 207% of Its Economy. Why Isn't It Broke? 🇯🇵",
+   "plattform": "youtube",
+   "datum": "2026-11-29T16:00:00+01:00"
+  },
+  {
+   "teil": 26,
+   "titel": "Japan Owes 207% of Its Economy. Why Isn't It Broke? 🇯🇵",
+   "plattform": "tiktok",
+   "datum": "2026-11-29T18:00:00+01:00"
   }
  ],
  "geplant_bis": "2026-12-02T18:00:00+01:00"
